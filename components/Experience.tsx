@@ -1,6 +1,5 @@
 import { dataExperience } from "@/data"
-import Title from "./shared/title"
-import { BadgeCheck } from "lucide-react"
+import Title from "@/components/shared/Title"
 
 const Experience = () => {
   return (

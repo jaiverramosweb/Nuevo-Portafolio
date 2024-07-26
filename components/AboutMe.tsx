@@ -1,4 +1,4 @@
-import Title from "./shared/title"
+import Title from "@/components/shared/Title"
 
 
 const AboutMe = () => {

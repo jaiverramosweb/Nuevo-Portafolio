@@ -1,5 +1,5 @@
 import { dataContact } from "@/data"
-import Title from "./shared/title"
+import Title from "@/components/shared/Title"
 import Link from "next/link"
 import ContactForm from "./ContactForm"
 
