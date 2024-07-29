@@ -184,7 +184,7 @@ export const dataPortfolio = [
                 url: "https://www.mysql.com/"
             },
         ],
-        urlGithub: "https://github.com/jaiverramosweb/Sistema-Agrohelp",
+        urlGithub: "",
         urlDemo: "",
     },
     {
