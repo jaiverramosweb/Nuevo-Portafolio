@@ -15,7 +15,7 @@ const Contact = () => {
                             { data.icon }
                             <p>{ data.title }</p>
                             <p>{ data.subtitle }</p>
-                            <Link href={data.link} target="_black">Enviar mensaje</Link>
+                            {/* <Link href={data.link} target="_black">Enviar mensaje</Link> */}
                         </div>
                     )) }
                 </div>
