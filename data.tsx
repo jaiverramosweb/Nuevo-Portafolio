@@ -174,7 +174,7 @@ export const dataPortfolio = [
     id: 2,
     title: "Web créditos",
     image: "/portafolio/clon-chat.png",
-    is_public: false,
+    is_public: true,
     details: `Proyecto personal desarrollado para simular un chart en tiempo real, usando react, firebase, zustand, zod, tailwindcss,  emoji-picker-react, y mas.
             tecnologias y recusos usados:
         `,
