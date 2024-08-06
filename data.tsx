@@ -172,7 +172,7 @@ export const dataPortfolio = [
   },
   {
     id: 2,
-    title: "Web créditos",
+    title: "Chat Tiempo real",
     image: "/portafolio/clon-chat.png",
     is_public: true,
     details: `Proyecto personal desarrollado para simular un chart en tiempo real, usando react, firebase, zustand, zod, tailwindcss,  emoji-picker-react, y mas.
